@@ -1,0 +1,1 @@
+This repository contains a simple COBOL program that demonstrates a common data type overflow error. The program calculates the sum of integers from 1 to 10. If the data type of the variable used to store the sum is not large enough, it can overflow, leading to an incorrect result. The solution demonstrates how to prevent this issue using a larger data type.
